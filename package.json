@@ -1,0 +1,22 @@
+{
+  "name": "haim-meshutafim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danah2139/Haim-Meshutafim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danah2139/Haim-Meshutafim/issues"
+  },
+  "homepage": "https://github.com/danah2139/Haim-Meshutafim#readme",
+  "dependencies": {
+    "mongoose": "^5.12.5"
+  }
+}
